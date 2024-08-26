@@ -1,0 +1,25 @@
+<map id="unit_model_add" name="unit_model_add">
+<area shape="rect" id="Node000001" title="This function does the unit test of the add." alt="" coords="5,212,118,239"/>
+<area shape="rect" id="Node000002" href="$class_model.html#aa415a9a7be0545b1342bf5ae927f90f9" title="Create a Flow object." alt="" coords="175,107,302,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,209,200,139,203,144,87,214"/>
+<area shape="rect" id="Node000007" href="$class_model.html#a402b02bcd692d398ec73d1707d982976" title="Create a Model object." alt="" coords="171,187,306,213"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="118,215,155,209,155,215,118,220"/>
+<area shape="rect" id="Node000011" href="$class_model.html#ad32a4aaa4b0c50f0e65644875cfc054b" title="Create a System object." alt="" coords="166,237,311,264"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="118,231,151,235,150,241,118,236"/>
+<area shape="rect" id="Node000012" href="$class_model.html#a0b1ce2be73d91c808ae7f2d549995dd8" title="This method returns the system from the beginning." alt="" coords="168,288,308,315"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="90,237,167,274,182,280,180,285,165,278,88,242"/>
+<area shape="rect" id="Node000003" href="$class_model.html#afde6c25ab942f2eec7aedeaf8eec53fd" title="This method adds a system to the model." alt="" coords="388,5,474,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,104,302,74,358,42,373,35,375,40,360,46,305,78,260,108"/>
+<area shape="rect" id="Node000004" href="$class_flow.html#a4eb5e8714d7972d31d3b8c3b03b196e8" title="Set the Destiny object." alt="" coords="372,56,490,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="291,103,362,85,363,90,293,109"/>
+<area shape="rect" id="Node000005" href="$class_flow.html#a0fc5960be2255889bf87b0d444230406" title="Set the Id object of the Flow." alt="" coords="389,107,473,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="302,117,374,117,374,123,302,123"/>
+<area shape="rect" id="Node000006" href="$class_flow.html#a42ce99a961622788ae59bb73abad3bb3" title="Set the Source object." alt="" coords="374,157,489,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="293,131,363,150,362,155,291,137"/>
+<area shape="rect" id="Node000008" href="$class_model_implementation.html#ad04161d421c8642a3493ce5ac25925ae" title="Create a Model object." alt="" coords="359,208,503,251"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="307,208,344,213,343,219,306,213"/>
+<area shape="rect" id="Node000009" href="$class_model_implementation.html#ac01fbff38d0febe381856a271ee372c0" title="This method adds a system to the model." alt="" coords="551,187,725,213"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="504,216,535,212,536,217,504,222"/>
+<area shape="rect" id="Node000010" href="$class_model_implementation.html#a6fbf36f1d3822048f4b9a5cccdbbfa45" title="Construct a new Model Implementation object." alt="" coords="562,237,714,280"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="504,237,547,243,546,248,504,242"/>
+</map>

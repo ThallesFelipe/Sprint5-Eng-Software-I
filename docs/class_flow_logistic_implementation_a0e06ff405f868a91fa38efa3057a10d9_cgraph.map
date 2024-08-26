@@ -1,0 +1,9 @@
+<map id="FlowLogisticImplementation::FlowLogisticImplementation" name="FlowLogisticImplementation::FlowLogisticImplementation">
+<area shape="rect" id="Node000001" title="Construct a new Flow Logistic Implementation object." alt="" coords="5,48,195,91"/>
+<area shape="rect" id="Node000002" href="$class_flow.html#adcdc94255a4a9013b5fd8d3e4cee9a9a" title="Get the Destiny object." alt="" coords="243,5,361,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,45,230,34,232,39,188,50"/>
+<area shape="rect" id="Node000003" href="$class_flow.html#ab301807d53f64a0f2b755c729c0c666d" title="Get the Id object of the Flow." alt="" coords="260,56,344,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,67,244,67,244,72,195,72"/>
+<area shape="rect" id="Node000004" href="$class_flow.html#abf0f3dbb285fe82e5ba6449de06b97c8" title="Get the Source object." alt="" coords="244,107,360,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,89,232,100,230,105,187,94"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="unit_flow_setDestiny" name="unit_flow_setDestiny">
+<area shape="rect" id="Node000001" title="This function does the unit test of the Set Destiny." alt="" coords="5,31,146,57"/>
+<area shape="rect" id="Node000002" href="$class_flow.html#adcdc94255a4a9013b5fd8d3e4cee9a9a" title="Get the Destiny object." alt="" coords="194,5,312,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,31,178,27,179,32,146,37"/>
+<area shape="rect" id="Node000003" href="$class_flow.html#a4eb5e8714d7972d31d3b8c3b03b196e8" title="Set the Destiny object." alt="" coords="194,56,312,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,51,179,56,178,61,145,57"/>
+</map>

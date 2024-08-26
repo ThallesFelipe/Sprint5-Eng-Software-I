@@ -1,0 +1,5 @@
+<map id="FlowImplementation::getDestiny" name="FlowImplementation::getDestiny">
+<area shape="rect" id="Node000001" title="Get the Destiny object." alt="" coords="235,5,371,48"/>
+<area shape="rect" id="Node000002" href="$class_flow_logistic_implementation.html#acf4754fa1d92541eea34df3e1fa4c8c0" title=" " alt="" coords="5,5,187,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,29,187,29,187,24,219,24"/>
+</map>

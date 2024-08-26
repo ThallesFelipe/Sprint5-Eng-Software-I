@@ -1,0 +1,11 @@
+<map id="Model::createFlow" name="Model::createFlow">
+<area shape="rect" id="Node000001" title="Create a Flow object." alt="" coords="5,81,133,108"/>
+<area shape="rect" id="Node000002" href="$class_model.html#afde6c25ab942f2eec7aedeaf8eec53fd" title="This method adds a system to the model." alt="" coords="197,5,282,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,78,180,42,192,36,194,41,182,46,101,83"/>
+<area shape="rect" id="Node000003" href="$class_flow.html#a4eb5e8714d7972d31d3b8c3b03b196e8" title="Set the Destiny object." alt="" coords="181,56,299,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,83,165,78,166,83,133,88"/>
+<area shape="rect" id="Node000004" href="$class_flow.html#a0fc5960be2255889bf87b0d444230406" title="Set the Id object of the Flow." alt="" coords="198,107,282,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,101,183,109,182,114,133,107"/>
+<area shape="rect" id="Node000005" href="$class_flow.html#a42ce99a961622788ae59bb73abad3bb3" title="Set the Source object." alt="" coords="182,157,298,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="101,106,182,143,194,148,192,153,180,148,99,111"/>
+</map>

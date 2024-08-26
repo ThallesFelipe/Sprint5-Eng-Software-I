@@ -1,0 +1,5 @@
+<map id="unit_flow_getDestiny" name="unit_flow_getDestiny">
+<area shape="rect" id="Node000001" title="This function does the unit test of the Get Destiny." alt="" coords="5,5,146,32"/>
+<area shape="rect" id="Node000002" href="$class_flow.html#adcdc94255a4a9013b5fd8d3e4cee9a9a" title="Get the Destiny object." alt="" coords="194,5,312,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,16,178,16,178,21,146,21"/>
+</map>

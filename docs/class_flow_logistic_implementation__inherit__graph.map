@@ -1,0 +1,8 @@
+<map id="FlowLogisticImplementation" name="FlowLogisticImplementation">
+<area shape="rect" id="Node000001" title="LogisticFlow: Class that implements the execute function of the Logistic Flow." alt="" coords="5,155,187,181"/>
+<area shape="rect" id="Node000002" href="$class_flow_implementation.html" title=" " alt="" coords="28,80,164,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,122,92,154,86,154,85,122"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="107,122,106,154,100,154,102,122"/>
+<area shape="rect" id="Node000003" href="$class_flow.html" title=" " alt="" coords="72,5,120,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,48,99,80,93,80,93,48"/>
+</map>

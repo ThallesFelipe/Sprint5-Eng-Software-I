@@ -1,0 +1,25 @@
+<map id="Flow::getDestiny" name="Flow::getDestiny">
+<area shape="rect" id="Node000001" title="Get the Destiny object." alt="" coords="736,213,854,240"/>
+<area shape="rect" id="Node000002" href="$class_flow_exponential_implementation.html#a7ebd4dc489138124019ac856380f6813" title="Construct a new Flow Exponential Implementation object." alt="" coords="475,5,688,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="781,200,745,131,719,94,686,62,668,51,671,46,689,58,723,90,750,128,785,198"/>
+<area shape="rect" id="Node000003" href="$class_flow_implementation.html#ac94b9278ca988ee4354174137ef4c2cb" title="Construct a new Flow Implementation object." alt="" coords="509,72,654,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="771,204,734,165,686,129,653,114,655,109,689,124,737,161,775,200"/>
+<area shape="rect" id="Node000004" href="$class_flow_logistic_implementation.html#a0e06ff405f868a91fa38efa3057a10d9" title="Construct a new Flow Logistic Implementation object." alt="" coords="487,139,676,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="734,211,651,185,653,179,736,206"/>
+<area shape="rect" id="Node000005" href="$class_flow_implementation.html#a44990513aa04940516846a868cc278b1" title="Comparison operator for flow objects." alt="" coords="513,205,650,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="720,229,650,229,650,224,720,224"/>
+<area shape="rect" id="Node000006" href="$unit_flow_8cpp.html#a4965358b9c104dc75cf98a59e781bde9" title="This function does the unit test of the constructor." alt="" coords="510,272,653,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="738,248,688,263,644,274,643,269,687,257,737,243"/>
+<area shape="rect" id="Node000010" href="$unit_flow_8cpp.html#a6f3e18d902a488b8ab319cafd0cd7496" title="This function does the unit test of the Get Destiny." alt="" coords="511,323,652,349"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="772,252,735,284,689,313,653,326,651,321,686,308,731,280,768,248"/>
+<area shape="rect" id="Node000011" href="$unit_flow_8cpp.html#a7fbdbc0f3224dc13727b44051793d6e2" title="This function does the unit test of the Set Destiny." alt="" coords="511,373,652,400"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="782,256,745,311,719,340,689,364,653,379,651,374,686,359,715,336,741,308,777,253"/>
+<area shape="rect" id="Node000007" href="$unit_flow_8cpp.html#aa4541b36497258012d8181b39fbd4bd2" title="This function run the unit test of the flow." alt="" coords="302,323,427,349"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="507,305,426,325,424,319,506,300"/>
+<area shape="rect" id="Node000008" href="$unit__tests_8cpp.html#aaef0e580ac1123f30a7c742b9b73e51a" title="Run all unit tests." alt="" coords="103,323,254,349"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="286,339,254,339,254,333,286,333"/>
+<area shape="rect" id="Node000009" href="$unit_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,323,55,349"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="87,339,55,339,55,333,87,333"/>
+<area shape="poly" id="edge10_Node000010_Node000007" title=" " alt="" coords="496,339,428,339,428,333,496,333"/>
+<area shape="poly" id="edge12_Node000011_Node000007" title=" " alt="" coords="506,372,424,353,426,347,507,367"/>
+</map>

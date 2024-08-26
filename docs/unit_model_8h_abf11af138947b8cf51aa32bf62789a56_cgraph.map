@@ -1,0 +1,11 @@
+<map id="unit_model_clear" name="unit_model_clear">
+<area shape="rect" id="Node000001" title="This function does the unit test of the clear." alt="" coords="5,81,125,108"/>
+<area shape="rect" id="Node000002" href="$class_model.html#afde6c25ab942f2eec7aedeaf8eec53fd" title="This method adds a system to the model." alt="" coords="197,5,282,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,78,172,42,185,36,188,41,174,46,95,83"/>
+<area shape="rect" id="Node000003" href="$class_model.html#a70d1a18b51f1184b56b101becefe71dc" title="This method clears the model." alt="" coords="193,56,286,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,83,177,76,178,81,125,89"/>
+<area shape="rect" id="Node000004" href="$class_model.html#a29f5c60c170d9e072397b41dfb2f2043" title="This method returns the size of the flow." alt="" coords="183,107,296,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="125,101,168,107,167,112,125,106"/>
+<area shape="rect" id="Node000005" href="$class_model.html#ab0d589d70421a394e4032e410522f03a" title="This method returns the size of the system." alt="" coords="173,157,306,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="95,106,174,143,188,149,185,154,172,148,93,111"/>
+</map>
