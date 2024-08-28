@@ -24,14 +24,6 @@ ModelImplementation::ModelImplementation(Model &obj)
 
 ModelImplementation::~ModelImplementation()
 {
-    vectorFlow itf = flowBegin();
-    for (itf; itf != flowEnd(); itf++)
-        delete *itf;
-
-    vectorSystem its = systemBegin();
-    for (its; its != systemEnd(); its++)
-        delete *its;
-
     for (auto modelatual = models.begin(); modelatual < models.end(); modelatual++)
         if ((*modelatual) == this)
             models.erase(modelatual);
